@@ -2,10 +2,20 @@
 
 ## here is a second level
 
-Adn **bold** and _italics_
+And **bold** and _italics_
 
-OK?
+Often?
 
 anything?
 
 And now?
+
+| This | That|
+|-- |--:|
+|Here is left | Here is right|
+| OK - so alignment doesn't work| at all |
+
+
+
+
+
