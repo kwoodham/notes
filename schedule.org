@@ -1,0 +1,236 @@
+* Eric Lipton - fast before
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MXJqY2JpczJwNGk4amozbWppOGlubGh1aGsga3dvb2RoYW1AbQ][Go to gcal web page]]
+  :ID: 1rjcbis2p4i8jj3mji8inlhuhk
+  :END:
+
+  <2017-02-15 Wed 09:45-10:45>
+* Lunch Jerome Ford
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=dGJoMXRobXVxZHAwN2g4YjhnMmVqYmpiODAga3dvb2RoYW1AbQ][Go to gcal web page]]
+  :ID: tbh1thmuqdp07h8b8g2ejbjb80
+  :END:
+
+  <2017-02-17 Fri 12:00-13:00>
+* drop trailer off
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=ZDhldGtzM3RiZWNjM2g5NDZ0aTdwOWcxbTgga3dvb2RoYW1AbQ][Go to gcal web page]]
+  :ID: d8etks3tbecc3h946ti7p9g1m8
+  :END:
+
+  <2017-02-17 Fri 18:00-19:00>
+* Lincoln Kinkade's Birthday
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=ZzFkaHU4YWk2bnFyaWhzbmk0YmlsczF0cGdfMjAxNzAyMTkga3dvb2RoYW1AbQ][Go to gcal web page]]
+  :ID: g1dhu8ai6nqrihsni4bils1tpg_20170219
+  :END:
+
+  <2017-02-19 Sun>
+* Adam Ravenscraft's Birthday
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MDZodTVoMnN1bnZqbzhubW1kMmp2amJkYW9fMjAxNzAyMjAga3dvb2RoYW1AbQ][Go to gcal web page]]
+  :ID: 06hu5h2sunvjo8nmmd2jvjbdao_20170220
+  :END:
+
+  <2017-02-20 Mon>
+* Breakfast with Steve
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=czJzOWI4NmphZDlwNjE4dTd1bTcyamhxcm8ga3dvb2RoYW1AbQ][Go to gcal web page]]
+  :ID: s2s9b86jad9p618u7um72jhqro
+  :END:
+
+  <2017-02-23 Thu 07:00-08:00>
+* Stay at Fairfield Inn & Suites Williamsburg
+  :PROPERTIES:
+  :LOCATION: 1402 Richmond Road, Williamsburg, VA 23185, USA
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVnczZpcjFoZGxobmFzYmQ3NHM2ZW9qYWRjcjNnY2I0Y2RuMzJ0amdlcHBqOGM5aWRsbm1hc2o5YzlnbXNkaGljdGg3NGRobWRkb2owcXJnZDVtbWUga3dvb2RoYW1AbQ][Go to gcal web page]]
+  :ID: _6tlnaqrle5p6cpb4dhmj4phpegs6ir1hdlhnasbd74s6eojadcr3gcb4cdn32tjgeppj8c9idlnmasj9c9gmsdhicth74dhmddoj0qrgd5mme
+  :END:
+
+  <2017-02-25 Sat>--<2017-02-26 Sun>
+
+To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
+
+This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DPeEiR7e3ID_pV4_OHdW0O3zVn0vcf_nQA
+* Ron Adolphi
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=ZDZjZWxuMGZiajJlZWFka3Y3cDNkMDQzaDAga3dvb2RoYW1AbQ][Go to gcal web page]]
+  :ID: d6celn0fbj2eeadkv7p3d043h0
+  :END:
+
+  <2017-02-26 Sun 14:00-15:00>
+* Denver
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=Z245MnFocWMzOGFjNXRjdjJqZXN0MWcwZWMga3dvb2RoYW1AbQ][Go to gcal web page]]
+  :ID: gn92qhqc38ac5tcv2jest1g0ec
+  :END:
+
+  <2017-02-28 Tue>--<2017-03-07 Tue>
+* Flight to Baltimore
+  :PROPERTIES:
+  :LOCATION: Norfolk ORF
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVoaW40Y2plZWNvbTJzcmxkMG83YXFobmNwbzcwcWhsNjlqMzBlM2E3NHIzaWRiNWNrc21zcXBqZWRoM2lxMzI2aG82MmNyZGQ1bGpncTNqY2hubWUga3dvb2RoYW1AbQ][Go to gcal web page]]
+  :ID: _6tlnaqrle5p6cpb4dhmj4phpehin4cjeecom2srld0o7aqhncpo70qhl69j30e3a74r3idb5cksmsqpjedh3iq326ho62crdd5ljgq3jchnme
+  :END:
+
+  <2017-02-28 Tue 09:55-10:55>
+
+To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
+
+This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DNH_uojZYsAgpyO9TK6tNOeP0wAAzeos08
+* Flight to Denver
+  :PROPERTIES:
+  :LOCATION: Baltimore BWI
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVobm1ndGJnNmxyNnVjcmNjZ3FqYWNiMWVwbDcycTFvY2htamdwYmNkbGdtaWRwZ2Nsbmo2Y3BtY2xtbjBycjJla3EzMG9qZ2Q1bDZxZGJmZWdxajAga3dvb2RoYW1AbQ][Go to gcal web page]]
+  :ID: _6tlnaqrle5p6cpb4dhmj4phpehnmgtbg6lr6ucrccgqjacb1epl72q1ochmjgpbcdlgmidpgclnj6cpmclmn0rr2ekq30ojgd5l6qdbfegqj0
+  :END:
+
+  <2017-02-28 Tue 13:20-17:30>
+
+To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
+
+This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DNH_uojZYsAgpyO9TK6tNOeP0wAAzeos08
+* Appointment with Dr. Arthur Rex Jenkins
+  :PROPERTIES:
+  :LOCATION: Dr. Arthur Rex Jenkins, 836 First Colonial Road, Virginia Beach, VA, United States, 23451
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVobzZ1ZGo2NnNxbWtwM202dHFtZXBoZ2VjcGpjdDNjZHBrbXFkM2hkOHAzaXBocGVkcDMyczNjZGxoMzBkcmJkMHM3MnQ5cGNocW1zcGI3YzlwbWUga3dvb2RoYW1AbQ][Go to gcal web page]]
+  :ID: _6tlnaqrle5p6cpb4dhmj4phpeho6udj66sqmkp3m6tqmephgecpjct3cdpkmqd3hd8p3iphpedp32s3cdlh30drbd0s72t9pchqmspb7c9pme
+  :END:
+
+  <2017-03-01 Wed 10:40-11:40>
+
+To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
+
+This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DMw9Ma3JULaJlL-5co7AimCRi8Hl2OqzJ8
+* Kristi Frontier 578
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=Y2JzMmhqZXVuazBrNG10ZGJmYW0zaDNnOHMga3dvb2RoYW1AbQ][Go to gcal web page]]
+  :ID: cbs2hjeunk0k4mtdbfam3h3g8s
+  :END:
+
+  <2017-03-03 Fri 15:50-16:50>
+* Flight to Chicago
+  :PROPERTIES:
+  :LOCATION: Denver DEN
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVoajNndGpnZXBxbTJwMXBkcGk3OGNiZmVncWpjb3BwY3NzamdlM2ZlcGtqZ2U5bmNsaG1vcHBtNzRvbWl0ajk2ZG5tdWNyOWU1bDNlZWI0ZXBvNmUga3dvb2RoYW1AbQ][Go to gcal web page]]
+  :ID: _6tlnaqrle5p6cpb4dhmj4phpehj3gtjgepqm2p1pdpi78cbfegqjcoppcssjge3fepkjge9nclhmoppm74omitj96dnmucr9e5l3eeb4epo6e
+  :END:
+
+  <2017-03-07 Tue 11:15-13:35>
+
+To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
+
+This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DNH_uojZYsAgpyO9TK6tNOeP0wAAzeos08
+* Flight to Norfolk
+  :PROPERTIES:
+  :LOCATION: Chicago MDW
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVobzZxcnBqNnNwamNwcmxlNXIzNG9ybWNzcTZxYzNhNjFqbXVkaG9lY3I2NHExbjZobmo2cDNpZTVpbjhyYmhkOWtuMmMzZ2U1aDMyb2ptNjluMzAga3dvb2RoYW1AbQ][Go to gcal web page]]
+  :ID: _6tlnaqrle5p6cpb4dhmj4phpeho6qrpj6spjcprle5r34ormcsq6qc3a61jmudhoecr64q1n6hnj6p3ie5in8rbhd9kn2c3ge5h32ojm69n30
+  :END:
+
+  <2017-03-07 Tue 14:30-16:25>
+
+To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
+
+This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DNH_uojZYsAgpyO9TK6tNOeP0wAAzeos08
+* Daylight Saving Time starts
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=NzhwM2E2c2x1NG10aTQ2bmdsNGoxcnVnMG8ga3dvb2RoYW1AbQ][Go to gcal web page]]
+  :ID: 78p3a6slu4mti46ngl4j1rug0o
+  :END:
+
+  <2017-03-12 Sun>--<2017-03-11 Sat>
+* 10am RCI Tagup
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=NHMxM3R1dmFoZmRmYmtyNGpuMTVlcW9tMTRfMjAxNzAzMTNUMTQwMDAwWiBrd29vZGhhbUBt][Go to gcal web page]]
+  :ID: 4s13tuvahfdfbkr4jn15eqom14_20170313T140000Z
+  :END:
+
+  <2017-03-13 Mon 10:00-11:00>
+* Louisville - Wedding
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=M2RtNzI0bHZ2dWY0NDI4OHU0N2p1djJ1dmsga3dvb2RoYW1AbQ][Go to gcal web page]]
+  :ID: 3dm724lvvuf44288u47juv2uvk
+  :END:
+
+  <2017-03-22 Wed>--<2017-03-28 Tue>
+* Stay at Hyatt Place Lexington
+  :PROPERTIES:
+  :LOCATION: 2001 Bryant Rd, Lexington, KY 40509, United States
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVoajM0dDFvZDlqNnNjM2xlNXFqZ3MzNTZrbzM4b3I1Y3BvM2FyOWljOWk2bWUxa2NkcjY2ZGpoNnRrajBjYjJjOHJqOHJiN2N0cTMyc2ptNnRrNmUga3dvb2RoYW1AbQ][Go to gcal web page]]
+  :ID: _6tlnaqrle5p6cpb4dhmj4phpehj34t1od9j6sc3le5qjgs356ko38or5cpo3ar9ic9i6me1kcdr66djh6tkj0cb2c8rj8rb7ctq32sjm6tk6e
+  :END:
+
+  <2017-03-23 Thu>--<2017-03-27 Mon>
+
+To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
+
+This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DNG6rr0O45nPjSdzA44UG0JpAxt5c8HIgY
+* Stay at DoubleTree Suites by Hilton Hotel Lexington
+  :PROPERTIES:
+  :LOCATION: DoubleTree Suites by Hilton Hotel Lexington, 2601 Richmond Road Lexington, KY 40509
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVocG4wc3JtZTBzM2VwamJlMG83NGQxcDc1bG11Y2JsY2RrbWdvamw3NWxtb3NibWRrb202b3JkZDhvbXVwamM2cHE3NGUzamVkcG0yZTltZGxoNmUga3dvb2RoYW1AbQ][Go to gcal web page]]
+  :ID: _6tlnaqrle5p6cpb4dhmj4phpehpn0srme0s3epjbe0o74d1p75lmucblcdkmgojl75lmosbmdkom6ordd8omupjc6pq74e3jedpm2e9mdlh6e
+  :END:
+
+  <2017-03-23 Thu>--<2017-03-27 Mon>
+
+To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
+
+This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DNnuTP80-175VFQp-9t4pizGkgyLJDI4Po
+* Danny Cook - Birthday
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=YmFmamhiNDM2cG81a3NlaWczN3RmZzRucXNfMjAxNzAzMjkga3dvb2RoYW1AbQ][Go to gcal web page]]
+  :ID: bafjhb436po5kseig37tfg4nqs_20170329
+  :END:
+
+  <2017-03-29 Wed>
+* Kurt Woodham's Birthday
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=aWpqbXE0MXNwMGhwaTgzYXZwcnZnNG11aGtfMjAxNzA0MDEga3dvb2RoYW1AbQ][Go to gcal web page]]
+  :ID: ijjmq41sp0hpi83avprvg4muhk_20170401
+  :END:
+
+  <2017-04-01 Sat>
+* Dr Jenkins
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=aHM4YnJoZmxmbDA2aTJndmVwN2swcTBvYzgga3dvb2RoYW1AbQ][Go to gcal web page]]
+  :ID: hs8brhflfl06i2gvep7k0q0oc8
+  :END:
+
+  <2017-04-03 Mon 10:20-11:20>
+* 10am RCI Tagup
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=NHMxM3R1dmFoZmRmYmtyNGpuMTVlcW9tMTRfMjAxNzA0MTBUMTQwMDAwWiBrd29vZGhhbUBt][Go to gcal web page]]
+  :ID: 4s13tuvahfdfbkr4jn15eqom14_20170410T140000Z
+  :END:
+
+  <2017-04-10 Mon 10:00-11:00>
+* Pete McCreary's Birthday
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=NXFoOGsyb2VsY2NocXNnN2U0dmh2OTdwMWtfMjAxNzA0MTcga3dvb2RoYW1AbQ][Go to gcal web page]]
+  :ID: 5qh8k2oelcchqsg7e4vhv97p1k_20170417
+  :END:
+
+  <2017-04-17 Mon>
+* Connie Woodham's Birthday
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=XzYwcTMwYzFnNjBvMzBlMWk2MG80YWMxZzYwcmo4Z3BsODhyajJjMWg4NHMzNGg5ZzYwczMwYzFnNjBvMzBjMWc2c28zMGNhMjZrbzNpY2hsOGtxNDZlOWc2NG8zMGMxZzYwbzMwYzFnNjBvMzBjMWc2MG8zMmMxZzYwbzMwYzFnNm9zNDZkMWs4b3IzY2QxcDhjcmoyaDFrNjhzM2VjMWw3MTFqNGc5azYwcGs4aGEzNmNyMF8yMDE3MDQyMiBrd29vZGhhbUBt][Go to gcal web page]]
+  :ID: _60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g6so30ca26ko3ichl8kq46e9g64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g6os46d1k8or3cd1p8crj2h1k68s3ec1l711j4g9k60pk8ha36cr0_20170422
+  :END:
+
+  <2017-04-22 Sat>
+* Shaun McDonnell's Birthday
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MGgzdDczNmJwOGdtOHZ1c2dkYWQxam5zYWdfMjAxNzA1MDgga3dvb2RoYW1AbQ][Go to gcal web page]]
+  :ID: 0h3t736bp8gm8vusgdad1jnsag_20170508
+  :END:
+
+  <2017-05-08 Mon>
+* 10am RCI Tagup
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=NHMxM3R1dmFoZmRmYmtyNGpuMTVlcW9tMTRfMjAxNzA1MDhUMTQwMDAwWiBrd29vZGhhbUBt][Go to gcal web page]]
+  :ID: 4s13tuvahfdfbkr4jn15eqom14_20170508T140000Z
+  :END:
+
+  <2017-05-08 Mon 10:00-11:00>

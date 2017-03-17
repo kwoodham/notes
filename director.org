@@ -1,0 +1,10 @@
+#+STARTUP: logdrawer
+#+STARTUP: showall
+#+FILETAGS: director
+#+SEQ_TODO: TODO(t!) STARTED(s!) WAITING(w@/!) | DONE(d!) CANCELLED(c@) DEFERRED(f@)
+
+* Tasks
+
+* Notes
+
+

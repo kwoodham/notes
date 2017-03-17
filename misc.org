@@ -1,0 +1,105 @@
+* Refile
+
+* Notes
+* Emacs Hacks
+** Attachments
+
+ For attachments see http://orgmode.org/manual/Attachments.html
+
+ Command C-c C-a, then:
+
+ - s (org-attach-set-directory)
+ - z (org-attach-sync)
+ - o (org-attach-open)
+ - f (org-attach-reveal) - use this for files that emacs doesn't view
+
+
+** Compiling
+   :PROPERTIES:
+   :CREATED:  [2017-03-12 Sun 21:44]
+   :END:
+
+[2017-02-18 Sat]
+
+#+BEGIN_SRC
+./configure --with-xml2 --with-zlib --without-x --without-sound --without-xpm   --without-jpeg --without-tiff --without-gif --without-png --without-rsvg   --without-imagemagick --without-xft --without-libotf --without-m17n-flt   --without-xaw3d --without-toolkit-scroll-bars --without-gpm --without-dbus   --without-gconf --without-gsettings --without-makeinfo   --without-compress-install  --prefix=$HOME/.local
+#+END_SRC
+
+[2017-03-12 Sun]
+
+Under ~msys~ on home machine - foillowed directions at
+
+[[https://sourceforge.net/p/emacsbinw64/wiki/Build%20guideline%20for%20MSYS2-MinGW-w64%20system/]]
+
+#+BEGIN_SRC
+./autogen.sh
+PKG_CONFIG_PATH=/mingw64/lib/pkgconfig ./configure --without-imagemagick
+make
+make install prefix=/c/emacs
+#+END_SRC
+
+But used:
+
+#+BEGIN_SRC
+CPP=/mingw64/bin/CPP PKG_CONFIG_PATH=/mingw64/lib/pkgconfig ./configure
+#+END_SRC
+
+** Compiling Hunspell
+
+[2017-02-23 Thu]
+
+See [[https://github.com/hunspell/hunspell]]
+
+In addition - copy .aff, .dict files from LibreOffice directory 
+
+#+BEGIN_SRC 
+  498  git clone https://github.com/hunspell/hunspell.git
+  500  cd hunspell/
+  501  pacman -S base-devel mingw-w64-x86_64-toolchain mingw-w64-x86_64-libtool
+  502  autoreconf -vfi
+  503  ./configure
+  504  pacman -S mingw-w64-x86_64-readline
+  505  ./configure
+  511  pacman -Qs readline*
+  512  pacman -Sy libreadline
+  513  ./configure
+  514  make
+  515  make install
+  516  cd tests
+  517  make check
+  521  echo "this is a testf" > test.txt
+#+END_SRC
+
+** Setting links to =.org_archive= files
+
+following a link like to =file.org_archive= at least on windows pops up
+a file association query. Add the extention to =auto-mode-alist= to associtate
+it with =org-mode=
+
+#+BEGIN_SRC emacs-lisp
+  ;; Want to be able to set links to archive files
+  ;; See https://www.emacswiki.org/emacs/AutoModeAlist
+  (add-to-list 'auto-mode-alist '("\\.org_archive\\'" . org-mode))
+#+END_SRC
+
+** Replacing unicode
+#+BEGIN_SRC emacs-lisp
+;; Clean up unicode - based on:
+;; http://blog.gleitzman.com/post/35416335505/hunting-for-unicode-in-emacs
+;; But I can't seem to get the [\223|\224] regex going...
+(require 'cl)
+(defun tidy ()
+  (interactive)
+  (let ((unicode-map '(("\222" . "'")
+                       ("\223" . "\"")
+                       ("\224" . "\"")
+                       ("\205" . "...")
+                       ("\226" . "--"))))
+    (save-excursion
+      (loop for (key . value) in unicode-map
+	    do
+	    (goto-char (point-min))
+	    (replace-regexp key value)))))
+
+(global-set-key "\M-u" 'tidy)
+#+END_SRC

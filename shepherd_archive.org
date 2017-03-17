@@ -1,0 +1,108 @@
+#+STARTUP logdrawer
+#+STARTUP content
+
+[[file:shepherd.org][shepherd]]
+
+* 2017
+** 2017-03 March
+*** 2017-03-13 Monday
+**** DONE Clay & Chris - Paul's teaching
+     :PROPERTIES:
+     :CREATED:  [2017-02-22 Wed 06:55]
+     :ARCHIVE_TIME: 2017-03-13 Mon 18:02
+     :ARCHIVE_FILE: ~/Dropbox/org/shepherd.org
+     :ARCHIVE_OLPATH: Role as shepherd
+     :ARCHIVE_CATEGORY: shepherd
+     :ARCHIVE_TODO: DONE
+     :ARCHIVE_ITAGS: shepherd
+     :END:
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2017-02-22 Wed 07:36]
+     :END:
+**** DONE Slides to Clay
+     :PROPERTIES:
+     :CREATED:  [2017-02-22 Wed 06:56]
+     :ARCHIVE_TIME: 2017-03-13 Mon 18:02
+     :ARCHIVE_FILE: ~/Dropbox/org/shepherd.org
+     :ARCHIVE_OLPATH: Role as shepherd
+     :ARCHIVE_CATEGORY: shepherd
+     :ARCHIVE_TODO: DONE
+     :ARCHIVE_ITAGS: shepherd
+     :END:
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2017-02-22 Wed 07:16]
+     :END:
+
+**** DONE Look into resources for same-sex attraction 
+     :PROPERTIES:
+     :CREATED:  [2017-02-22 Wed 06:53]
+     :ARCHIVE_TIME: 2017-03-13 Mon 18:02
+     :ARCHIVE_FILE: ~/Dropbox/org/shepherd.org
+     :ARCHIVE_OLPATH: Role as shepherd
+     :ARCHIVE_CATEGORY: shepherd
+     :ARCHIVE_TODO: DONE
+     :ARCHIVE_ITAGS: shepherd
+     :END:
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2017-03-12 Sun 22:31]
+     :END:
+
+**** DONE Get with Travis
+     SCHEDULED: <2017-02-24 Fri>
+     :PROPERTIES:
+     :CREATED:  [2017-02-22 Wed 06:12]
+     :ARCHIVE_TIME: 2017-03-13 Mon 18:02
+     :ARCHIVE_FILE: ~/Dropbox/org/shepherd.org
+     :ARCHIVE_OLPATH: Role as shepherd
+     :ARCHIVE_CATEGORY: shepherd
+     :ARCHIVE_TODO: DONE
+     :ARCHIVE_ITAGS: shepherd
+     :END:
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2017-03-01 Wed 08:19]
+     :END:
+**** DONE Talk with Kirk re Brian B                                :shepherd:
+     DEADLINE: <2017-02-22 Wed>
+     :PROPERTIES:
+     :CREATED:  [2017-02-22 Wed 06:10]
+     :ARCHIVE_TIME: 2017-03-13 Mon 18:02
+     :ARCHIVE_FILE: ~/Dropbox/org/shepherd.org
+     :ARCHIVE_OLPATH: Role as shepherd
+     :ARCHIVE_CATEGORY: shepherd
+     :ARCHIVE_TODO: DONE
+     :END:
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2017-03-01 Wed 08:19]
+     :END:
+
+**** DONE Brian Belmont discussion                                 :shepherd:
+     DEADLINE: <2017-02-18 Sat>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2017-03-13 Mon 18:02
+     :ARCHIVE_FILE: ~/Dropbox/org/shepherd.org
+     :ARCHIVE_OLPATH: Role as shepherd
+     :ARCHIVE_CATEGORY: shepherd
+     :ARCHIVE_TODO: DONE
+     :END:
+     :LOGBOOK:  
+     - Note taken on [2017-02-20 Mon 07:59] \\
+       Discussed with elders on 2/19 - decided that this would best be handed off to Kirk.  I need to set
+   up a meeting with Kirk - need to understand from Ed what direction was given to brothers household regarding Brian.
+     - Note taken on [2017-02-13 Mon 20:43] \\
+       I talked with Brian yesterday - seemed to be more contrite - having good quiet times, feels bad that he doesn't have a church to go to.  Need to work with someone on SouthSide to reengage.  Promised a response by 2/18
+     :END:      
+**** DONE Call Derrell                                             :shepherd:
+     SCHEDULED: <2017-02-12 Sun>
+     :PROPERTIES:
+     :CREATED:  [2017-02-12 Sun 15:50]
+     :ARCHIVE_TIME: 2017-03-13 Mon 18:02
+     :ARCHIVE_FILE: ~/Dropbox/org/shepherd.org
+     :ARCHIVE_OLPATH: Role as shepherd
+     :ARCHIVE_CATEGORY: shepherd
+     :ARCHIVE_TODO: DONE
+     :END:
+     :LOGBOOK:
+  - State "DONE"       from "TODO"       [2017-02-18 Sat 03:51]
+  - Note taken on [2017-02-17 Fri 06:25] \\
+    Scheduled to get with Derrel and Rebbeca Sunday after church
+  :END:

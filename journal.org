@@ -1,0 +1,113 @@
+#+STARTUP: logdrawer
+#+STARTUP: showall
+#+ARCHIVE: journal_archive.org::datetree/
+#+TAGS: shepherd(e) husband(h) father(f) sharpen(s)
+#+SEQ_TODO: TODO(t!) STARTED(s!) WAITING(w@/!) | DONE(d!) CANCELLED(c@) DEFERRED(f@)
+
+[[file:journal_archive.org][archive]]
+
+* Tasks
+
+** TODO fjr inspection                                                 :home:
+   :PROPERTIES:
+   :CREATED:  [2017-02-21 Tue 10:52]
+   :END:
+
+** WAITING Stretch boots                                             :errand:
+   SCHEDULED: <2017-03-11 Sat>
+   :PROPERTIES:
+   :CREATED:  [2017-03-10 Fri 23:18]
+   :END:
+   :LOGBOOK:
+   - State "WAITING"    from "STARTED"    [2017-03-16 Thu 19:52] \\
+     At shop
+   - State "STARTED"    from "TODO"       [2017-03-11 Sat 20:22]
+   - Note taken on [2017-03-10 Fri 19:32] \\
+     Fergusons's Shoe Repair Shop
+     1086 W Mercury Blvd
+     Hampton, VA 23666
+     (757) 826-0217
+   :END:
+
+** WAITING Repair Shoes                                              :errand:
+   SCHEDULED: <2017-03-11 Sat>
+   :PROPERTIES:
+   :CREATED:  [2017-03-10 Fri 23:18]
+   :END:
+   :LOGBOOK:
+   - State "WAITING"    from "STARTED"    [2017-03-16 Thu 19:52] \\
+     At shop
+   - State "STARTED"    from "TODO"       [2017-03-11 Sat 20:22]
+   - State "TODO"       from              [2017-03-10 Fri 19:38]
+   :END:
+
+** TODO Repair upstairs shower                                         :home:
+   :PROPERTIES:
+   :CREATED:  [2017-03-12 Sun 22:06]
+   :Attachments:
+   :ID:       f566637e-e26a-4013-8a5b-abda4970ee78
+   :END:
+   :LOGBOOK:
+   - State "TODO"       from "TODO"       [2017-03-12 Sun 22:06]
+   - State "TODO"       from "TODO"       [2017-03-12 Sun 22:06]
+   - State "TODO"       from "TODO"       [2017-03-12 Sun 22:06]
+   - State "TODO"       from "TODO"       [2017-03-12 Sun 22:06]
+   - State "TODO"       from              [2017-03-10 Fri 20:50]
+   :END:
+
+** WAITING Submit check request to kirk                             :husband:
+   :PROPERTIES:
+   :CREATED:  [2017-03-12 Sun 22:06]
+   :ATTACH_DIR: ../Sound/
+   :Attachments: 20170310-stretch-shapes-checkout.pdf 20170310-hdmi-extender.pdf 20170310-amazon-hdmi-switch-cables.pdf
+   :END:
+   :LOGBOOK:
+   - Note taken on [2017-03-16 Thu 19:52] \\
+     Kirk has all inputs - waiting for check to be returned.
+   - State "WAITING"    from "STARTED"    [2017-03-12 Sun 22:23] \\
+     Sent message with invoices to KV
+   - State "STARTED"    from "TODO"       [2017-03-12 Sun 22:23]
+   - State "TODO"       from              [2017-03-12 Sun 22:06]
+   :END:
+
+** 2017
+*** 2017-01 January
+**** 2017-01-01 Sunday                                        :ATTACH:lesson:
+     :PROPERTIES:
+     :ATTACH_DIR: c:/Users/kwood/Dropbox/Ministry/2017/0101-gen-1/
+     :Attachments: 20170101-gen-1.pptx
+     :CREATED:  [2017-02-21 Tue 15:54]
+     :END:
+
+ Lesson on Genesis 1
+
+**** 2017-01-14 Saturday                                      :ATTACH:lesson:
+     :PROPERTIES:
+     :ATTACH_DIR: c:/Users/kwood/Dropbox/Ministry/2017/0113-empty-nesters/
+     :Attachments: 20170113-empty-nesters.pptx
+     :CREATED:  [2017-02-21 Tue 15:54]
+     :END:
+
+  - [[file:c:/Users/kwood/Dropbox/org/journal.org::*2017-01-01%20Sunday][2017-01-01 Sunday]]
+
+ Lesson at Va Leader's retreat on Empty Nester
+
+*** 2017-02 February
+**** 2017-02-08 Wednesday                                     :lesson:ATTACH:
+     :PROPERTIES:
+     :ATTACH_DIR: c:/Users/kwood/Dropbox/Ministry/2017/0208-soul
+     :Attachments: 20170208-psuche.md 20170208-soul.pptx
+     :CREATED:  [2017-02-21 Tue 15:54]
+     :END:
+
+ These are files for my lesson on "Love God with all soul" 
+
+**** 2017-02-12 Sunday                                        :lesson:ATTACH:
+     :PROPERTIES:
+     :ATTACH_DIR: c:/Users/kwood/Dropbox/Ministry/2017/0212-gen11-babel/
+     :END:
+     :LOGBOOK:
+     - Note taken on [2017-03-08 Wed 17:02] \\
+       Lesson on Gen 11 - Babel
+     :END:
+*** 2017-03 March

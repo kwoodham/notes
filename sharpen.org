@@ -1,0 +1,101 @@
+#+CATEGORY: sharpen
+#+STARTUP: showall
+#+STARTUP: logdrawer
+#+FILETAGS: sharpen
+#+SEQ_TODO: TODO(t) STARTED(s!) WAITING(w@/!) | DONE(d!) CANCELLED(c@) DEFERRED(f@)
+
+* Reading
+
+** TODO Read Covey chapter on sharpening the saw
+:PROPERTIES:
+:CREATED:  [2017-02-12 Sun 14:21]
+:END:
+
+** TODO Finish "Sensing Jesus"
+:PROPERTIES:
+:CREATED:  [2017-02-12 Sun 14:24]
+:END:
+
+* Organization
+
+** STARTED pull over anything important from topydo file
+   :PROPERTIES:
+   :CREATED:  [2017-02-22 Wed 06:22]
+   :END:
+   :LOGBOOK:
+   - State "STARTED"    from "TODO"       [2017-03-13 Mon 07:32]
+   - Note taken on [2017-03-13 Mon 07:32] \\
+     - buy cords for sewing machine @home
+     - generate jan 19 bod minutes @ministry +bod
+     - push 9/16 notes to web @ministry +bod
+     - generate draft minutes for Feb 8 bod @ministry +bod
+     - consolidate tax documents @home +taxes
+     - finish rocking chair @home
+     - set up dinner with greg jonak @ministry
+     - File e-Quip documents in work archives +misc @work
+     - update speaking principles and send @ministry +eldership
+     - review bylaw updates @ministry +bod due:2016-09-11
+     - review Oleg Lisagor papers from pg @work +ref
+     - develop savi and eu effort slides for anna @work +mbse
+     - where is nra WRT milestones for project @work +purdue
+     - review wigig afe with brent @work +misc
+     - listen to grief recovery icoc per steves sms @ministry +eldership
+     - send sharing instructions to chip @ministry +misc
+     - send final seedling report to patrick (nick approve) @work +misc
+   :END:
+
+** DONE set up seeker to breakout role clock tables
+   :PROPERTIES:
+   :CREATED:  [2017-02-22 Wed 06:18]
+   :END:
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2017-02-22 Wed 06:18]
+   :END:
+
+* Health
+
+** TODO Archive lab work eric's office
+   :PROPERTIES:
+   :CREATED:  [2017-02-22 Wed 06:21]
+   :END:
+** TODO Scan results of insurance physical and archive
+   :PROPERTIES:
+   :CREATED:  [2017-02-22 Wed 06:20]
+   :END:
+** PHONE Justin - Dr. Lipton                                          :PHONE:
+   :LOGBOOK:
+   CLOCK: [2017-02-21 Tue 15:09]--[2017-02-21 Tue 15:10] =>  0:01
+   - Note taken on [2017-02-21 Tue 15:10] \\
+     363-6848 - chol 10 year risk: 9% t-level is normal, recommendation to get back on statins, agreed - requested that Justin send to Hampton pharmacy.
+   :END:
+ [2017-02-21 Tue 15:09]
+** DONE Get on statin
+   :PROPERTIES:
+   :CREATED:  [2017-02-21 Tue 15:21]
+   :END:
+   :LOGBOOK:
+   - State "DONE"       from "WAITING"    [2017-03-09 Thu 19:48]
+   - State "WAITING"    from "TODO"       [2017-02-21 Tue 15:21] \\
+     Talked with Justin today - he will get script started with Eric
+   :END:
+** WAITING Call Drs office regarding pre-auth number
+   SCHEDULED: <2017-03-13 Mon>
+   :PROPERTIES:
+   :CREATED:  [2017-02-21 Tue 11:17]
+   :END:
+   :LOGBOOK:
+   - Note taken on [2017-02-21 Tue 11:22] \\
+     Called Erics office - it had not yet been processed on their end (spoke with Justin (male)) Said that it would be done by the end of the week.
+     
+     See:
+     
+     [[file:journal.org::*Call%20insurance%20regarding%20authorization][Call insurance regarding authorization]]
+   :END:
+** DONE Call insurance regarding authorization
+   :PROPERTIES:
+   :CREATED:  [2017-02-21 Tue 10:52]
+   :END:
+   :LOGBOOK:
+   - Note taken on [2017-02-21 Tue 11:09] \\
+     FEPBlue number for preauthorization - gave a secure line for drs office to call: 1 877-727-3784
+   :END:

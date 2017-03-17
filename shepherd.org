@@ -1,0 +1,47 @@
+#+STARTUP: logdrawer
+#+STARTUP: content
+#+ARCHIVE: shepherd_archive.org::datetree/
+#+FILETAGS: shepherd
+#+SEQ_TODO: TODO(t!) STARTED(s!) WAITING(w@/!) | DONE(d!) CANCELLED(c@) DEFERRED(f@)
+
+[[file:shepherd.org_archive][archive]]
+
+* Role as shepherd
+:PROPERTIES:
+:CREATED:  [2017-02-12 Sun 15:02]
+:END:
+:LOGBOOK:
+CLOCK: [2017-02-22 Wed 06:50]--[2017-02-22 Wed 07:43] =>  0:53
+:END:
+
+** TODO Travis home school letter 				   :shepherd:
+   :LOGBOOK:  
+   - Note taken on [2017-02-13 Mon 21:03] \\
+     see https://www.evernote.com/shard/s17/nl/1900996/c3b49a43-5df2-4a47-b4d5-3695ec32fa1a
+   - Note taken on [2017-02-13 Mon 20:34] \\
+     See email from 2/12/2017
+   :END:      
+** WAITING Followup with Kurt Winkelman
+   SCHEDULED: <2017-03-12 Sun>
+   :PROPERTIES:
+   :CREATED:  [2017-02-22 Wed 06:50]
+   :END:
+   :LOGBOOK:
+   - State "WAITING"    from "TODO"       [2017-03-12 Sun 22:30] \\
+     Sent at text to see about getting together this week
+   :END:
+** STARTED Talk to Neil re Jerome
+   :PROPERTIES:
+   :CREATED:  [2017-02-22 Wed 06:53]
+   :END:
+   :LOGBOOK:
+   - Note taken on [2017-02-22 Wed 07:42] \\
+     Sent text to Neil
+   - State "STARTED"    from "TODO"       [2017-02-22 Wed 07:42]
+   :END:
+** TODO Derrell continuing as cm coord
+** TODO Jon regarding next steps
+* Speaking ideas
+
+** Communion Gal 2:19-20 - loved me, and gave himself for me (motivation)
+

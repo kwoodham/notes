@@ -1,0 +1,73 @@
+#+STARTUP: showall
+#+STARTUP: logdrawer
+#+FILETAGS: study
+#+SEQ_TODO: TODO(t!) STARTED(s!) WAITING(w@/!) | DONE(d!) CANCELLED(c@) DEFERRED(f@)
+
+* Study topics
+
+- Abiding in the vine
+
+Jn 15
+
+“I am the true vine, and my Father is the vinedresser. Every branch in me that does not bear fruit he takes away, and every branch that does bear fruit he prunes, that it may bear more fruit. Already you are clean because of the word that I have spoken to you. Abide in me, and I in you. As the branch cannot bear fruit by itself, unless it abides in the vine, neither can you, unless you abide in me. I am the vine; you are the branches. Whoever abides in me and I in him, he it is that bears much fruit, for apart from me you can do nothing. If anyone does not abide in me he is thrown away like a branch and withers; and the branches are gathered, thrown into the fire, and burned. If you abide in me, and my words abide in you, ask whatever you wish, and it will be done for you. By this my Father is glorified, that you bear much fruit and so prove to be my disciples. As the Father has loved me, so have I loved you. Abide in my love. If you keep my commandments, you will abide in my love, just as I have kept my Father’s commandments and abide in his love. These things I have spoken to you, that my joy may be in you, and that your joy may be full.
+
+
+** Define relationship
+
+- (Christ)  true vine
+- (God) vinedresser
+- (follower) branch
+
+Every branch in me that does not bear fruit he takes away, and 
+every branch       that does     bear fruit he prunes, that 
+
+** Assured fruit
+   :PROPERTIES:
+   :ORDERED:  t
+   :ID:       41e4e7a1-413e-48e6-a12c-025c3808f494
+   :END:
+
+Already you are clean because of the word that I have spoken to you. Abide in me, and I in you. As the branch cannot bear fruit by itself, unless it abides in the vine, neither can you, unless you abide in me.
+
+*Need to understood what is meant by [[Sanctfied by the word]["made clean"]]*
+
+Why would Jesus discuss first being "made clean" - 
+
+See [[https://bible.org/seriespage/34-abiding-christ-john-151-17][Abiding in Christ - Bob Deffinbaugh]]
+
+Utley
+
+ 15:1 "I am the true vine" This is one of Jesus' famous "I Am" statements in John's Gospel (cf. John 4:26; 6:35; 8:12; 10:7,9,10,11,14; 11:25; 14:6).
+
+
+1. 6:35 Jesus said to them, “I am the bread of life. The one who comes to me will never go hungry, and the one who believes in me will never be thirsty. 
+2. 8:12 Then Jesus spoke out again, “I am the light of the world. The one who follows me will never walk in darkness, but will have the light of life.” 
+3. 10:7 So Jesus said to them again, “I tell you the solemn truth, I am the door for the sheep. 9 I am the door. If anyone enters through me, he will be saved, and will come in and go out, and find pasture. 10 The thief comes only to steal and kill and destroy; I have come so that they may have life, and may have it abundantly. 4. 11 “I am the good shepherd. The good shepherd lays down his life for the sheep. 
+4. 14 “I am the good shepherd. I know my own and my own know me – 
+5. 11:25 Jesus said to her, “I am the resurrection and the life. The one who believes in me will live even if he dies, 
+6. 14:6 Jesus replied, “I am the way, and the truth, and the life. No one comes to the Father except through me.
+7. 15:1 "I am the true vine"
+
+
+** Sanctified by the word
+
+focus area from [[Assured Frult]] under Jn 15
+
+Ellicotts Commentary
+
+#+BEGIN_QUOTE
+The word was the revelation of God to them, and by reason of its moral power they had been cleansed. We are not to limit the reference to John 13:10, but are to understand it of our Lord’s whole teaching. (See John 5:24; John 8:31-32; John 12:48; John 17:10; and comp. Note on Ephesians 5:26.)
+#+END_QUOTE
+
+John 55:24 Truly, truly, I say to you, whoever hears my word and believes him who sent me has eternal life. He does not come into judgment, but has passed from death to life. 
+
+John 8:31-32  - So Jesus said to the Jews who had believed him, “If you abide in my word, you are truly my disciples, and you will know the truth, and the truth will set you free.”
+
+John 12:48-50 - The one who rejects me and does not receive my words has a judge; the word that I have spoken will judge him on the last day. For I have not spoken on my own authority, but the Father who sent me has himself given me a commandment—what to say and what to speak. And I know that his commandment is eternal life. What I say, therefore, I say as the Father has told me.”
+
+Jn 13:10 - Jesus said to him, “The one who has bathed does not need to wash, except for his feet, but is completely clean. And you are clean, but not every one of you.” 
+
+Jn 17:17 - Sanctify the in the truth, your word is truth
+
+Eph 5:25-27 - Husbands, love your wives, as Christ loved the church and gave himself up for her, that he might sanctify her, having cleansed her by the washing of water with the word, so that he might present the church to himself in splendor, without spot or wrinkle or any such thing, that she might be holy and without blemish. 
+

@@ -1,0 +1,16 @@
+#+STARTUP: logdrawer
+#+STARTUP: showall
+#+FILETAGS: husband
+#+SEQ_TODO: TODO(t!) STARTED(s!) WAITING(w@/!) | DONE(d!) CANCELLED(c@) DEFERRED(f@)
+
+* Tasks
+
+* TODO Finish rocker
+  :LOGBOOK:
+  - State "TODO"       from              [2017-03-10 Fri 20:48]
+  :END:
+
+* TODO finish sewing maching
+  :LOGBOOK:
+  - State "TODO"       from "TODO"       [2017-03-10 Fri 20:49]
+  :END:

@@ -1,0 +1,96 @@
+#+STARTUP: showall
+#+STARTUP: logdrawer
+#+FILETAGS: seeker
+#+SEQ_TODO: TODO(t!) STARTED(s!) WAITING(w@/!) | DONE(d!) CANCELLED(c@) DEFERRED(f@)
+
+* Goals
+
+- [[#prayer-id][Prayer Time]] - 3 hours
+- [[#study-id][Bible Study]] - 3 hours
+- Exercise - 2 Hours
+ 
+#+BEGIN: clocktable :block thisweek :wstart 0 :tags "prayer" :scope file
+#+CAPTION: Clock summary at [2017-03-17 Fri 07:31], for week 2017-W10.
+| Headline     | Time   |   |
+|--------------+--------+---|
+| *Total time* | *0:13* |   |
+|--------------+--------+---|
+| Prayer Time  | 0:13   |   |
+#+END:
+
+#+BEGIN: clocktable :block thisweek :wstart 0 :tags "study" :scope file
+#+CAPTION: Clock summary at [2017-03-17 Fri 07:31], for week 2017-W10.
+| Headline     | Time   |   |
+|--------------+--------+---|
+| *Total time* | *0:29* |   |
+|--------------+--------+---|
+| Bible Study  | 0:29   |   |
+#+END:
+
+#+BEGIN: clocktable :block today :tags "prayer" :scope file 
+#+CAPTION: Clock summary at [2017-03-17 Fri 07:31], for Friday, March 17, 2017.
+| Headline     | Time   |   |
+|--------------+--------+---|
+| *Total time* | *0:13* |   |
+|--------------+--------+---|
+| Prayer Time  | 0:13   |   |
+#+END:
+
+* Role Tables for this week
+
+#+BEGIN: clocktable :scope agenda :block thisweek :fileskip0 t :narrow 40 :tags "shepherd"
+#+CAPTION: Clock summary at [2017-03-17 Fri 07:31], for week 2017-W11.
+|      | <40>                                     |        |   |
+| File | Headline                                 | Time   |   |
+|------+------------------------------------------+--------+---|
+|      | ALL *Total time*                         | *0:00* |   |
+#+END: clocktable
+
+#+BEGIN: clocktable :scope agenda :block thisweek :fileskip0 t :narrow 40 :tags "father"
+#+CAPTION: Clock summary at [2017-03-17 Fri 07:31], for week 2017-W11.
+|      | <40>                                     |        |   |
+| File | Headline                                 | Time   |   |
+|------+------------------------------------------+--------+---|
+|      | ALL *Total time*                         | *0:00* |   |
+#+END: clocktable
+
+#+BEGIN: clocktable :scope agenda :block thisweek :fileskip0 t :narrow 40 :tags "sharpen"
+#+CAPTION: Clock summary at [2017-03-17 Fri 07:31], for week 2017-W11.
+|      | <40>                                     |        |   |
+| File | Headline                                 | Time   |   |
+|------+------------------------------------------+--------+---|
+|      | ALL *Total time*                         | *0:00* |   |
+#+END: clocktable
+
+
+* Prayer Time                                                        :prayer:
+   :PROPERTIES:
+      :CREATED:  [2017-02-20 Mon 07:58]
+      :CUSTOM_ID: prayer-id
+   :END:
+   :LOGBOOK:  
+   CLOCK: [2017-03-17 Fri 07:18]--[2017-03-17 Fri 07:31] =>  0:13
+   CLOCK: [2017-02-21 Tue 07:59]--[2017-02-21 Tue 08:07] =>  0:08
+   CLOCK: [2017-02-21 Tue 07:47]--[2017-02-21 Tue 07:58] =>  0:11
+   CLOCK: [2017-02-20 Mon 07:37]--[2017-02-20 Mon 07:58] =>  0:21
+   CLOCK: [2017-02-18 Sat 07:06]--[2017-02-18 Sat 07:33] =>  0:27
+   CLOCK: [2017-02-17 Fri 06:47]--[2017-02-17 Fri 07:13] =>  0:26
+   CLOCK: [2017-02-16 Thu 06:14]--[2017-02-16 Thu 06:54] =>  0:40
+   CLOCK: [2017-02-14 Tue 11:31]--[2017-02-14 Tue 11:48] =>  0:17
+   CLOCK: [2017-02-11 Sat 09:36]--[2017-02-11 Sat 10:13] =>  0:37
+   :END:      
+   
+* Bible Study                                                         :study:
+   :PROPERTIES:
+      :CREATED:  [2017-02-20 Mon 07:58]
+      :CUSTOM_ID: study-id
+   :END:
+   :LOGBOOK:  
+   CLOCK: [2017-03-17 Fri 06:49]--[2017-03-17 Fri 07:18] =>  0:29
+   CLOCK: [2017-03-03 Fri 09:02]--[2017-03-03 Fri 10:12] =>  1:10
+   CLOCK: [2017-03-02 Thu 09:15]--[2017-03-02 Thu 10:00] =>  0:45
+   CLOCK: [2017-03-01 Wed 09:08]--[2017-03-01 Wed 09:42] =>  0:34
+   CLOCK: [2017-03-01 Wed 08:51]--[2017-03-01 Wed 08:51] =>  0:00
+   CLOCK: [2017-02-14 Tue 10:51]--[2017-02-14 Tue 11:31] =>  0:40
+   :END:      
+
